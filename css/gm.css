@@ -1,0 +1,55 @@
+.header{
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 50px;
+  color: #6d9dfd;
+  min-width: 500px;
+}
+
+.action{
+  margin-left: 25%;
+  margin-right: 25%;
+  min-width: 500px;
+}
+
+.tb{
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  min-width: 500px;
+  font-family: verdana,arial,sans-serif;
+  font-size:11px;
+  border-width: 1px;
+  color:#333333;
+  border-collapse: collapse;
+}
+.tb th {
+  border-width: 1px;
+  padding: 8px;
+  border-style: solid;
+  border-color: #666666;
+  background-color: #dedede;
+}
+.tb td {
+  border-width: 1px;
+  padding: 8px;
+  border-style: solid;
+  border-color: #666666;
+  background-color: #ffffff;
+}
+
+.context {
+  text-align: center;
+}
+
+.hr{
+  min-width: 500px;
+}
+
+#login {
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+  font-family: 
+}
